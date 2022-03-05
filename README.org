@@ -1,0 +1,3 @@
+#+TITLE: Persistent data structures for Emacs
+
+This is me going through "Purely Functional Data Structures" by Chris Okasaki
